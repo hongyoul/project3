@@ -12,7 +12,7 @@ public class Quiz2 {
 		System.out.println(y);
 		System.out.println(result);
 		
-		// result부터 계산 후에 x,y의 값을 처리한다.
+		// result부터 계산 후에 x,y 의 값을 처리한다.
 		
 	}
 
